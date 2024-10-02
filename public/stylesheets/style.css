@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,500,700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the photo viewer */
+  padding: 30px 10px;
+  font-family: "DM Sans", sans-serif;
+  transition: background 0.4s ease-in;
+  background-color: #c394f8;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+/* Center the photo viewer and make it responsive */
+.photo-gallery {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  max-height: 800px;
+  height: 100%;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo-card {
+  position: absolute;
+  width: 60%;
+  height: 100%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  cursor: pointer;
+  opacity: 0; /* Make photos initially invisible */
+  z-index: 0;
+}
+
+.photo-card img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+  box-shadow: 0px 0px 10px 0px rgba(81, 81, 81, 0.47);
+}
+.messtext {
+  width: 800px;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden; /* Prevent overflow */
+  border: 1px solid black; /* Optional for visibility */
+}
+
+.paratext {
+  font-size: 1rem; /* Initial small size */
+  line-height: 1.2;
+  margin: 0;
+  padding: 10px; /* Prevent text from touching edges */
+  word-wrap: break-word;
+}
