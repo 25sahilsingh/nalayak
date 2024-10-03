@@ -60,7 +60,7 @@ input[type="radio"] {
   box-shadow: 0px 0px 10px 0px rgba(81, 81, 81, 0.47);
 }
 .messtext {
-  width: 800px;
+  width: 40%;
   height: 600px;
   display: flex;
   justify-content: center;
