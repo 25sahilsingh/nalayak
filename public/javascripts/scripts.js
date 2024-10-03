@@ -3,20 +3,126 @@
 quotes = [];
 const loveQuotes = [
   {
-    text: "Love is composed of a single soul inhabiting two bodies.",
+    text: "You're my sunshine on a cloudy day. ☀️",
   },
   {
-    text: "The best thing to hold onto in life is each other.",
+    text: "You're a blooming flower in my garden of life. 🌸",
   },
   {
-    text: "You know you’re in love when you can’t fall asleep because reality is finally better than your dreams.",
+    text: "You're the reason my heart skips a beat. 💖",
   },
   {
-    text: "Love is not about how many days, months, or years you’ve been together. Love is about how much you love each other every day.",
+    text: "With you, every day feels like a rainbow after the rain. 🌈",
   },
   {
-    text: "To love and be loved is to feel the sun from both sides.",
+    text: "You shine brighter than all the stars in the sky. ⭐",
   },
+  {
+    text: "You’re my favorite kind of magic. ✨",
+  },
+  {
+    text: "You’re the melody to my heart's song. 🎶",
+  },
+  {
+    text: "Like a sunflower, you always bring warmth and light. 🌻",
+  },
+  {
+    text: "You make the world smell sweeter just by being in it. 🌼",
+  },
+  {
+    text: "You color my life with endless joy. 🎨",
+  },
+  {
+    text: "You're as sweet as honey, and twice as golden. 🍯",
+  },
+  {
+    text: "You’re the strawberry on top of life’s sundae. 🍓",
+  },
+  {
+    text: "Being with you feels like butterflies dancing in my heart. 🦋",
+  },
+  {
+    text: "Your smile is my favorite kind of happiness. 😊",
+  },
+  {
+    text: "You’re a rare gem in this world. 💎",
+  },
+  {
+    text: "You light up my life like a flame in the dark. 🔥",
+  },
+  {
+    text: "Your love is a wave that sweeps me off my feet. 🌊",
+  },
+  {
+    text: "You’re the love letter my heart has been waiting to open. 💌",
+  },
+  {
+    text: "You are my moon when the night feels too long. 🌙",
+  },
+  {
+    text: "You're my soft place to land, always comforting. 🛏️",
+  },
+  {
+    text: "You’re sweeter than the finest chocolate. 🍫",
+  },
+  {
+    text: "You’re one of a kind, like a magical unicorn. 🦄",
+  },
+  {
+    text: "You lift me up like a balloon soaring in the sky. 🎈",
+  },
+  {
+    text: "Your kindness is like a field of blooming daisies. 🌼",
+  },
+  {
+    text: "You leave little pawprints on my heart. 🐾",
+  },
+  {
+    text: "You make every season feel like autumn—cozy and warm. 🍂",
+  },
+  {
+    text: "You're the reason my inbox is full of love. 📧",
+  },
+  {
+    text: "Your presence is like a breath of fresh air. 🌬️",
+  },
+  {
+    text: "You're the sweetest slice of life. 🍰",
+  },
+  {
+    text: "In my book, you win the gold medal in everything. 🥇",
+  },
+  {
+    text: "You’re the best gift life has ever given me. 🎁",
+  },
+  {
+    text: "You're the icing on my cupcake. 🧁",
+  },
+  {
+    text: "You’re my lucky charm, always bringing good vibes. 🍀",
+  },
+  {
+    text: "Even when the stars fade, you’re my brightest light. 🌟",
+  },
+  {
+    text: "You're refreshing, like a cool summer breeze. 🍃",
+  },
+  {
+    text: "Your love feels like a warm hug for my soul. 🤗",
+  },
+  {
+    text: "Like autumn leaves, you bring beauty in every step. 🍁",
+  },
+  {
+    text: "You paint the world with your kindness. 🎨",
+  },
+  {
+    text: "Every moment with you is like catching a butterfly. 🦋",
+  },
+  {
+    text: "You're the apple of my eye, always perfect. 🍏",
+  },
+
   // Add more quotes here...
 ];
 
